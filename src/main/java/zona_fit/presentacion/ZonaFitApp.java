@@ -3,9 +3,6 @@ package zona_fit.presentacion;
 import zona_fit.datos.ClienteDAO;
 import zona_fit.datos.IClienteDAO;
 import zona_fit.dominio.Cliente;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class ZonaFitApp {
